@@ -1,0 +1,62 @@
+* {
+    background-color: bisque;
+    font-family: Verdana;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: #6952ac;
+}
+
+p, li {
+    font-family: Helvetica;
+}
+
+.des {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+.main {
+    display: block;
+    width: 180px;
+}
+
+.link {
+    margin-top: 15px;
+    margin-left: 520px;
+    width: 180px;
+    border-radius: 10px;
+}
+
+.main {
+    background-color: orange;
+    border-radius: 10px;;
+}
+
+.link a {
+    display: block;
+    text-align: center;
+    color: purple;
+    text-decoration: none;
+    padding: 10px 0; /* Adjust padding to vertically center the text */
+    background-color: orange;
+    border-radius: 10px;
+}
+
+.link :hover {
+    background-color: pink;
+    color: red;
+    border-radius: 10px;
+}
